@@ -1,0 +1,16 @@
+{
+"companyName": "Ronald Turaytemba",
+"productName": "Space Shooter Pro",
+"productVersion": "0.1",
+"dataUrl": "Space Shooter Web.data.unityweb",
+"wasmCodeUrl": "Space Shooter Web.wasm.code.unityweb",
+"wasmFrameworkUrl": "Space Shooter Web.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.1f1"
+}
